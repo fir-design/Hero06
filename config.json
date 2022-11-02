@@ -1,0 +1,7 @@
+{
+    'name': 'hero6',
+    'camel': 'Hero6',
+    'slug': 'hero-6',
+    'dob': 'Hero_6_1440',
+    'desc': 'A basic hero banner with title, text, cta & an image.'
+}
